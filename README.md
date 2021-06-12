@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Mohamed </h1>
 
-- 🌱 I’m currently learning Ardupilot
+- 🌱 I’m currently learning DroneKit
 
 - 💬 Ask me about Anything!
 
