@@ -4,7 +4,7 @@
 
 - 💬 Ask me about Anything!
 
-- 📫 How to reach me: https://www.linkedin.com/in/mohamed-abdinasir-b50880bb/
+- 📫 How to reach me: https://www.linkedin.com/in/m-abdinasir/
 
 
 ### Github stats
